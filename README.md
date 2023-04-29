@@ -1,0 +1,3 @@
+- 👋 Hola, soy @sacyrex (tambien conocido como Shande)
+- 👀 Estoy interesado en robar codigo (not realy) y no perder el alma en el proceso
+- 🌱 Soy alguien nuevo en esto de programar (pero ¡EH!, se decir "Hola mundo" en 5 lenguajes diferentes)
